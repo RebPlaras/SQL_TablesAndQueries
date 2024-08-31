@@ -1,16 +1,33 @@
 
 
-INSERT INTO Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded) VALUES
-(1, 'aenzley0', 'Abagael', 'Enzley', '2009-07-21', 'iK0|VS#}q4hlN', '2023-11-06T13:29:37Z'),
-(2, 'ksircombe1', 'Korey', 'Sircombe', '2009-03-30', 'qB6\\G0ee\\,7d3', '2023-09-11T22:55:44Z'),
-(3, 'nconey2', 'Noemi', 'Coney', '2001-12-03', 'mK3+{=iSI', '2024-07-06T20:39:11Z'),
-(4, 'cmoodey3', 'Chickie', 'Moodey', '2008-07-03', 'dA0!\\yPb\\f9GJ/', '2023-09-30T18:01:26Z'),
-(5, 'bmcrinn4', 'Bryon', 'McRinn', '2009-01-18', 'qJ3"bEaJ', '2024-08-06T21:19:21Z'),
-(6, 'egreenley5', 'Ed', 'Greenley', '2006-03-30', 'iQ0!,n,zbh@o', '2023-12-31T15:29:59Z'),
-(7, 'arouchy6', 'Algernon', 'Rouchy', '2007-01-14', 'lG0(*N9Al%)a4', '2024-08-13T23:42:08Z'),
-(8, 'mwitcherley7', 'Milena', 'Witcherley', '2007-05-10', 'tS2!R=38R~', '2024-05-18T05:22:46Z'),
-(9, 'mdutchburn8', 'Moselle', 'Dutchburn', '2007-11-03', 'pD2)mjY+#@D}&', '2024-01-05T07:50:15Z'),
-(10, 'gstranio9', 'Gwenora', 'Stranio', '2006-07-12', 'fO9=43f1.5=07', '2024-08-15T11:09:51Z');
+INSERT INTO Users (UserID, Username, FirstName, LastName, DateOfBirth, Password, DateAdded)
+VALUES
+(1, 'mlivingstone0', 'Mariam', 'Livingstone', '2001-11-18', 'bN5{%5UXyLsq&', '2024-08-21T11:37:57Z'),
+(2, 'aborrott1', 'Avril', 'Borrott', '2004-12-22', 'dC0!wG"",X''9yg&', '2023-11-28T20:49:48Z'),
+(3, 'icastella2', 'Isadore', 'Castella', '2001-05-03', 'eZ5*ucbd', '2024-06-06T15:52:25Z'),
+(4, 'cbonsall3', 'Cassandry', 'Bonsall', '2007-01-22', 'wM5#~jY,=', '2024-04-23T15:17:26Z'),
+(5, 'azylbermann4', 'Abel', 'Zylbermann', '2005-07-04', 'lM7`0l)uhV', '2024-08-26T14:32:03Z'),
+(6, 'bstuckow5', 'Bordie', 'Stuckow', '2009-11-28', 'gK6_qaVU', '2024-01-03T01:34:51Z'),
+(7, 'jguilaem6', 'Jeff', 'Guilaem', '2008-01-24', 'wM8,>M7B7%>PD.QK', '2024-02-02T01:09:16Z'),
+(8, 'pchattelaine7', 'Peder', 'Chattelaine', '2010-03-25', 'rV9!@q{XEUV+2.Qo', '2024-03-26T18:54:13Z'),
+(9, 'hhelsdon8', 'Hirsch', 'Helsdon', '2000-03-15', 'vO3>J<WmeP$@', '2024-01-04T00:51:04Z'),
+(10, 'celger9', 'Cecelia', 'Elger', '2008-08-14', 'uP2{nON?""&6Ou', '2024-08-30T06:44:32Z'),
+(11, 'mknudsena', 'Monika', 'Knudsen', '2009-11-28', 'qJ4&.Jfa', '2024-02-06T23:52:57Z'),
+(12, 'mlumsdallb', 'Mufinella', 'Lumsdall', '2004-03-25', 'mL9`d~j''~)k.uV>', '2024-07-27T21:11:39Z'),
+(13, 'owingrovec', 'Opal', 'Wingrove', '2002-12-01', 'uB0>>lD/E3&#F', '2023-12-16T01:08:34Z'),
+(14, 'mhennigerd', 'Margi', 'Henniger', '2001-02-04', 'wH7=y_!UH(', '2024-07-02T23:07:10Z'),
+(15, 'anoltee', 'Anson', 'Nolte', '2001-03-05', 'xR4''01J$', '2023-12-24T07:47:23Z'),
+(16, 'erunciemanf', 'Eda', 'Runcieman', '2000-11-17', 'bO9}V''hVVS', '2023-10-16T01:40:08Z'),
+(17, 'sgorving', 'Sharl', 'Gorvin', '2001-01-03', 'nR7''.P%''&!vT+KN', '2024-05-16T09:52:20Z'),
+(18, 'svenablesh', 'Sergeant', 'Venables', '2005-11-15', 'pM2&vC$w#>j$', '2024-05-06T17:01:32Z'),
+(19, 'vfellowi', 'Vonni', 'Fellow', '2006-09-28', 'uE7}sNZZ6', '2024-08-20T11:38:09Z'),
+(20, 'bgallaherj', 'Bevin', 'Gallaher', '2001-09-20', 'gR1?K3St/{C', '2024-08-28T02:21:05Z'),
+(21, 'wallibandk', 'Wilfred', 'Alliband', '2007-10-18', 'iA4.<S4b/', '2024-07-07T03:44:40Z'),
+(22, 'mpashbeel', 'Marchall', 'Pashbee', '2004-04-18', 'pZ7(&g#c9N', '2024-05-22T03:37:53Z'),
+(23, 'gmilberrym', 'Gil', 'Milberry', '2001-04-07', 'uM7$mKR6|&', '2024-06-24T08:15:48Z'),
+(24, 'clefridgen', 'Clio', 'Lefridge', '2009-12-19', 'nI8~#Kg04Yh<!', '2024-05-05T21:47:04Z'),
+(25, 'abelascoo', 'Amory', 'Belasco', '2009-05-06', 'lJ7~Iirdd/', '2023-11-13T21:02:10Z');
+
 
 INSERT INTO Friends (FriendID, FriendWhoAdded, FriendBeingAdded, IsAccepted, DateAdded) VALUES
 (1, 1, 1, TRUE, '2024-01-31T03:27:36Z'),
