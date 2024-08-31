@@ -25,16 +25,17 @@ INSERT INTO Friends (FriendID, FriendWhoAdded, FriendBeingAdded, IsAccepted, Dat
 (10, 10, 10, TRUE, '2024-08-10T14:43:03Z');
 
 INSERT INTO Groups (GroupID, GroupName, CreatedBy, DateAdded) VALUES
-(1, 'Group A', 1, '2024-04-20T15:33:06Z'),
-(2, 'Group A', 2, '2023-10-11T18:16:14Z'),
-(3, 'Group B', 3, '2024-04-10T15:31:44Z'),
-(4, 'Group B', 4, '2024-04-20T17:24:22Z'),
-(5, 'Group C', 5, '2024-02-22T07:46:48Z'),
-(6, 'Group B', 6, '2024-07-01T11:35:41Z'),
-(7, 'Group B', 7, '2023-08-31T23:08:37Z'),
-(8, 'Group B', 8, '2024-07-07T20:02:20Z'),
-(9, 'Group C', 9, '2024-05-07T04:30:58Z'),
-(10, 'Group B', 10, '2024-04-24T18:27:23Z');
+(1, 'Alpha Squad', 1, '2024-04-20T15:33:06Z'),
+(2, 'Gaming Bros', 2, '2023-10-11T18:16:14Z'),
+(3, 'Gamma Group', 3, '2024-04-10T15:31:44Z'),
+(4, 'Delta Force', 4, '2024-04-20T17:24:22Z'),
+(5, 'Epsilon Crew', 5, '2024-02-22T07:46:48Z'),
+(6, 'Zeta Alliance', 6, '2024-07-01T11:35:41Z'),
+(7, 'Eta Warriors', 7, '2023-08-31T23:08:37Z'),
+(8, 'Theta Collective', 8, '2024-07-07T20:02:20Z'),
+(9, 'Iota Network', 9, '2024-05-07T04:30:58Z'),
+(10, 'Kappa Circle', 10, '2024-04-24T18:27:23Z');
+
 
 INSERT INTO Posts (PostID, PostDescription, PostedBy, IsPublic, IsOnlyForFriends, GroupID, DatePosted) VALUES
 (1, 'fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus', 1, TRUE, FALSE, 1, '2024-05-20T03:52:52Z'),
